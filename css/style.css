@@ -1,0 +1,50 @@
+body{
+    background-color: rgba(213, 226, 233,0.1);
+}
+p{
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    }
+h1,
+h2,
+h3{
+    font-family: 'Raleway', sans-serif;
+    color: #7a9cbb;
+    }
+h3{
+     color: #F19797;
+    }
+h2{
+    font-weight: bold;
+     }
+h1,h3{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    }
+.logo{
+    margin-top: 30px;
+}
+.imgs{
+    width: 555px;
+    height: 300px;
+}
+span{
+    font-style: italic;
+    color: #F19797;
+}
+
+footer{
+    color:black;
+    text-align: left;
+    padding: 20px;
+    font-size: 24px;
+    position: static;
+    margin-top: 30px;
+    }
+    
+.min-logo{
+    width:70px;
+    height: 70px;
+}
